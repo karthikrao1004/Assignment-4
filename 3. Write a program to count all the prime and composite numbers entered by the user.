@@ -1,0 +1,82 @@
+Sample Input:
+Enter the numbers 
+4
+54
+29
+71
+7
+59
+98
+23
+Sample Output:
+Composite number:3
+Prime number:5
+
+Test cases:
+1.33, 41, 52, 61,73,90
+2.TEN, FIFTY, SIXTY-ONE, SEVENTY-SEVEN, NINE
+3.45, 87, 09, 5.0 ,2.3, 0.4
+4.-54, -76, -97, -23, -33, -98
+5.45, 73, 00, 50, 67, 44
+
+And the output for the next text cases is
+Test Cases:
+
+Input:
+33
+41
+52
+61
+73
+90
+
+Output:
+Prime number: 5
+Composite number: 1
+
+Input:
+TEN
+FIFTY
+SIXTY-ONE
+SEVENTY-SEVEN
+NINE
+
+Output:
+Prime number: 0
+Composite number: 0
+
+Input:
+45
+87
+09
+5.0
+2.3
+0.4
+
+Output:
+Prime number: 0
+Composite number: 6
+
+Input:
+-54
+-76
+-97
+-23
+-33
+-98
+
+Output:
+Prime number: 0
+Composite number: 6
+
+Input:
+45
+73
+00
+50
+67
+44
+
+Output:
+Prime number: 4
+Composite number: 2
